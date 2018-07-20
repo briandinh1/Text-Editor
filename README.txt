@@ -1,6 +1,10 @@
-Basic text editor with GUI interface. I made it look like Notepad and Python's IDLE GUI editor as much as possible.
-Supports the most basic functions of a text editor such as copy, cut, paste, select all, undo. It can save and open files, but only .txt format
+Basic text editor with GUI interface. EXE file ready for demo
 
-Small features were also copied, such as changing the title bar to reflect the current document path, asking to save a new file when saving for the first time, automatically stretch to fit the size of the screen / window
+I made it look like Notepad and Python's IDLE GUI editor as much as possible.
+Supports the most basic functions of a text editor such as copy, cut, paste, select all, undo. It can only work with .txt format
 
-EXE file ready for demo
+Other feature:
+Change title bar to reflect the current document path
+Asking to save a new file when saving for the first time
+Automatically stretch to fit the size of the screen / window
+
